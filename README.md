@@ -12,6 +12,6 @@ chmod +x generate_qr_affiliate.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/sovereign-gtp/src/AiKre8tive-Stargate/platform/scripts/generate_qr_affiliate.sh
+/data/data/com.termux/files/home/constellation25-mono/sovereign-gtp/src/AiKre8tive-Stargate/platform/scripts/generate_qr_affiliate.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
